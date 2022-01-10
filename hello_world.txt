@@ -1,2 +1,4 @@
 to jest plik
 tekstowy
+i testowy 
+chce zobaczyc co sie stanie jak dodamwiecej tekstu
